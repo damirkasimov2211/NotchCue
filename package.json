@@ -1,0 +1,19 @@
+{
+  "name": "notchcue",
+  "version": "1.0.0",
+  "description": "Cue cards in your MacBook notch — prepared scripts at camera level for interviews, calls, and presentations",
+  "type": "module",
+  "scripts": {
+    "start": "node launcher.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["notchprompter", "macos", "teleprompter", "interview", "prompter", "cue-cards"],
+  "author": "Damir Kasimov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damirkasimov2211/notchcue.git"
+  }
+}

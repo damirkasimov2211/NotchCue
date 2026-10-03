@@ -1,0 +1,10 @@
+# title: Sample Story — Situation-Action-Result
+# labels: Leadership · Execution
+
+Tell a concise story about a challenge you solved.
+
+Situation: what was the context and why did it matter?
+
+Action: what did you specifically do, and how?
+
+Result: what was the measurable outcome, and what was the broader impact?

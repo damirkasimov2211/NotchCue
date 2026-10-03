@@ -1,0 +1,5 @@
+# title: Example CV Bullet
+# labels: Analytics · Stakeholder Management
+# role: Company Name — Role Title (Dates)
+
+Achieved [metric] by [action], resulting in [outcome]. Framework was subsequently adopted across [scope].

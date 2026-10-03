@@ -1,0 +1,9 @@
+{
+  "port": 7474,
+  "bundleId": "io.simplelocalize.notch-prompter",
+  "scriptsDir": "./scripts",
+  "tabs": [
+    { "id": "stories",  "label": "Story Bank",       "dir": "",   "layout": "cards"   },
+    { "id": "cv",       "label": "CV Bullet Points",  "dir": "cv", "layout": "grouped" }
+  ]
+}
